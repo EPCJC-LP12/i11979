@@ -93,7 +93,7 @@ Partial Class Form1
         Me.ShapeContainer1.Margin = New System.Windows.Forms.Padding(0)
         Me.ShapeContainer1.Name = "ShapeContainer1"
         Me.ShapeContainer1.Shapes.AddRange(New Microsoft.VisualBasic.PowerPacks.Shape() {Me.LineShape1})
-        Me.ShapeContainer1.Size = New System.Drawing.Size(347, 395)
+        Me.ShapeContainer1.Size = New System.Drawing.Size(356, 395)
         Me.ShapeContainer1.TabIndex = 6
         Me.ShapeContainer1.TabStop = False
         '
@@ -167,7 +167,7 @@ Partial Class Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(347, 395)
+        Me.ClientSize = New System.Drawing.Size(356, 395)
         Me.Controls.Add(Me.Button2)
         Me.Controls.Add(Me.Button1)
         Me.Controls.Add(Me.TextBox5)
